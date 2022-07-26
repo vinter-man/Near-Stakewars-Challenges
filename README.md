@@ -1,6 +1,7 @@
 # Near Stake Wars: Episode III Guide Challenge 1-4
 * Publication date: 2022-07-25 (**guide is up to date**)
 * Total rewards: 55 Unlocked NEAR Points (UNP)
+* Deadline: 11.08.2022
 
 ![img](screenshots/stake_wars.png)
 
