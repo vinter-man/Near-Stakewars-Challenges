@@ -478,7 +478,7 @@ curl -s -d '{"jsonrpc": "2.0", "method": "validators", "id": "dontcare", "params
 ![img_1.png](screenshots/check.png)
 ![img_1.png](screenshots/check2.png)
 
-## 9. What next?
+## 9. What's next?
 Move on to the next steps, I recommend trying to complete all the challenges:
 https://github.com/near/stakewars-iii/tree/main/challenges
 
