@@ -475,6 +475,12 @@ Check Blocks Produced / Expected
 ```
 curl -s -d '{"jsonrpc": "2.0", "method": "validators", "id": "dontcare", "params": [null]}' -H 'Content-Type: application/json' 127.0.0.1:3030 | jq -c '.result.current_validators[] | select(.account_id | contains ("POOL_ID"))'
 ```
+Delete node
+```
+sudo systemctl stop neard
+rm -r nearcore
+rm -r .near
+```
 ![img_1.png](screenshots/check.png)
 ![img_1.png](screenshots/check2.png)
 
